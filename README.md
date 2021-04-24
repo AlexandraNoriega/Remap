@@ -9,14 +9,12 @@ En este tutorial se mostrará como se modificó el repositorio de RBX1 para diri
 
 ```
 git clone https://github.com/pirobot/rbx1.git 
-
 ```
 
 Descargamos el paquete de esta forma con el fin de saber la ubicación de los archivos que contiene el paquete y así poder editarlos. Ahora en caso de no tener las dependencias de ubuntu las descargamos
 
 ```
 sudo apt-get install python-rosinstall
-
 ```
 
 Una vez tenemos la copia del repositorio en nuestro workspace, lo compilamos para luego poder ejecutarlo desde nuestro terminal
@@ -24,7 +22,6 @@ Una vez tenemos la copia del repositorio en nuestro workspace, lo compilamos par
 ```
 cd <workspace>
 catkin_make
-
 ```
 
 **Cuando escribamos el remap debemos saber que topic se enlazaran** para ello corremos 
