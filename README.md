@@ -4,7 +4,7 @@ REMAP
 
 ==============
 
-En este tutorial se mostrará como se modificó el repositorio de RBX1 para dirigir la Tutlebot dentro de rviz con el teclado dentro del terminal (parámetros de velocidad lineal y angular). Lo primero que haremos es descargar el repositorio RBX1 para ello dentro del src de nuestro workspace ejecutamos
+En este tutorial se mostrará como se modificó el repositorio de RBX1 para dirigir la Turtlebot dentro de rviz con el teclado dentro del terminal (parámetros de velocidad lineal y angular). Lo primero que haremos es descargar el repositorio RBX1 para ello dentro del src de nuestro workspace ejecutamos
 
 
 ```
